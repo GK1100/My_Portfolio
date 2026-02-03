@@ -1,4 +1,4 @@
-# Gaurav Kumavat - AI Engineer Portfolio
+# Gaurav Kumavat - AI Engineer Portfolio - [Link](https://my-portfolio-ruddy-pi-47.vercel.app/)
 
 A modern, responsive portfolio website showcasing AI/ML expertise, projects, publications, and professional experience. Specifically designed for AI Engineer positions with focus on RAG systems, deep learning, and agentic AI.
 
